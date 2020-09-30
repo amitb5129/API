@@ -3,6 +3,7 @@ package ApiProject.api;
 public class Testing {
 
 	public static void f1() {
+		System.out.println("New changes made from newfeature1");
 
 	}
 
