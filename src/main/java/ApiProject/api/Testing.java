@@ -3,7 +3,7 @@ package ApiProject.api;
 public class Testing {
 
 	public static void f1() {
-		System.out.println("new Code added by newFeature..!!!");
+		System.out.println("New changes made from newfeature1");
 	}
 
 	public static void f3() {
