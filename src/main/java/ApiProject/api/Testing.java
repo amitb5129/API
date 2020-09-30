@@ -8,6 +8,7 @@ public class Testing {
 
 	public static void f3() {
 		System.out.println("New changes have been added in NewFeature Branch..!!!");
+		System.out.println("Code from newFeature");
 	}
 
 	public static void f2() {
